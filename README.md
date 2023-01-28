@@ -25,4 +25,4 @@
 **January 28th 2023**
 * Sick as hell, but lets try!
 * * Added MySQL integration for faster loading/saving.
-* * 
+* * Coinflip has been installed for player-to-player gambling.
