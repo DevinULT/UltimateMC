@@ -21,3 +21,8 @@
 *Disabled the ability to craft Beacons - the only way to obtain Bedrock & Beacons would be through crates or envoys*
 
 * Clearlag has been installed to despawn items on the ground (7min timer)
+
+**January 28th 2023**
+* Sick as hell, but lets try!
+* * Added MySQL integration for faster loading/saving.
+* * 
